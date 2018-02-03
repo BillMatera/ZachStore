@@ -1,0 +1,11 @@
+/Users/user/Desktop/ZachStore/ZachStore/bin/Debug/netcoreapp2.0/ZachStore.deps.json
+/Users/user/Desktop/ZachStore/ZachStore/bin/Debug/netcoreapp2.0/ZachStore.runtimeconfig.json
+/Users/user/Desktop/ZachStore/ZachStore/bin/Debug/netcoreapp2.0/ZachStore.runtimeconfig.dev.json
+/Users/user/Desktop/ZachStore/ZachStore/bin/Debug/netcoreapp2.0/ZachStore.dll
+/Users/user/Desktop/ZachStore/ZachStore/bin/Debug/netcoreapp2.0/ZachStore.pdb
+/Users/user/Desktop/ZachStore/ZachStore/obj/Debug/netcoreapp2.0/ZachStore.csprojResolveAssemblyReference.cache
+/Users/user/Desktop/ZachStore/ZachStore/obj/Debug/netcoreapp2.0/ZachStore.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/ZachStore/ZachStore/obj/Debug/netcoreapp2.0/ZachStore.AssemblyInfoInputs.cache
+/Users/user/Desktop/ZachStore/ZachStore/obj/Debug/netcoreapp2.0/ZachStore.AssemblyInfo.cs
+/Users/user/Desktop/ZachStore/ZachStore/obj/Debug/netcoreapp2.0/ZachStore.dll
+/Users/user/Desktop/ZachStore/ZachStore/obj/Debug/netcoreapp2.0/ZachStore.pdb
